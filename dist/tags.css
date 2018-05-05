@@ -355,6 +355,11 @@
   background: #00bfff;
   color: #fff; }
 
+[data-user-id="183368079839985665"] .username-MwOsla::after,
+[style*="avatars/183368079839985665"] ~ .comment .username-wrapper::after {
+  content: "Princess";
+  background: #ff69b4; }
+
 [data-user-id="185119357578379264"] .username-MwOsla::after,
 [style*="avatars/185119357578379264"] ~ .comment .username-wrapper::after {
   content: "Daddy";
