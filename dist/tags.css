@@ -813,6 +813,12 @@
   background: #18b1c7;
   color: #000; }
 
+[data-user-id="435311437577977857"] .username-MwOsla::after,
+[style*="avatars/435311437577977857"] ~ .comment .username-wrapper::after {
+  content: "VI · XVI";
+  background: #f2bada;
+  color: #f2f7f8; }
+
 [data-user-id="442377249254277143"] .username-MwOsla::after,
 [style*="avatars/442377249254277143"] ~ .comment .username-wrapper::after {
   content: "Poopy butt xd";
