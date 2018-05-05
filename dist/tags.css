@@ -196,6 +196,12 @@
   content: "Increasingly H";
   background: #5342f4; }
 
+[data-user-id="144898194860539904"] .username-MwOsla::after,
+[style*="avatars/144898194860539904"] ~ .comment .username-wrapper::after {
+  content: "Bleat!";
+  background: #3d89ff;
+  color: #fff; }
+
 [data-user-id="145295834764935168"] .username-MwOsla::after,
 [style*="avatars/145295834764935168"] ~ .comment .username-wrapper::after {
   content: "MoonButt Lulu";
