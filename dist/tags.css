@@ -289,6 +289,11 @@
   background: #8d2036;
   color: #fff; }
 
+[data-user-id="173177738914562048"] .username-MwOsla::after,
+[style*="avatars/173177738914562048"] ~ .comment .username-wrapper::after {
+  content: "D E A D";
+  background: #6ac062; }
+
 [data-user-id="173398322332172288"] .username-MwOsla::after,
 [style*="avatars/173398322332172288"] ~ .comment .username-wrapper::after {
   content: "ShieldE";
