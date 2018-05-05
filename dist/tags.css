@@ -858,6 +858,12 @@
   background: #0000ff;
   color: #000; }
 
+[data-user-id="442450957889175552"] .username-MwOsla::after,
+[style*="avatars/442450957889175552"] ~ .comment .username-wrapper::after {
+  content: "Not ROBLOX";
+  background: #000;
+  color: #f00; }
+
 [data-user-id="73336881655316480"] .username-MwOsla::after,
 [style*="avatars/73336881655316480"] ~ .comment .username-wrapper::after {
   content: "Ganondorf";
