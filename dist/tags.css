@@ -343,6 +343,11 @@
 [style*="avatars/177744816665395200"] ~ .comment .username-wrapper::after {
   content: "doofus"; }
 
+[data-user-id="179608420809310208"] .username-MwOsla::after,
+[style*="avatars/179608420809310208"] ~ .comment .username-wrapper::after {
+  content: "dragon";
+  background: url("https://cdn.discordapp.com/attachments/439813745213177856/442461865847554048/d0411314-2b97-49ac-b194-4e2dfcb5292c.gif"); }
+
 [data-user-id="181323761264361472"] .username-MwOsla::after,
 [style*="avatars/181323761264361472"] ~ .comment .username-wrapper::after {
   content: "The Boshy Now!";
