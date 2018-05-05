@@ -808,6 +808,12 @@
   background: #18b1c7;
   color: #000; }
 
+[data-user-id="442377249254277143"] .username-MwOsla::after,
+[style*="avatars/442377249254277143"] ~ .comment .username-wrapper::after {
+  content: "Poopy butt xd";
+  background: #0000ff;
+  color: #000; }
+
 [data-user-id="73336881655316480"] .username-MwOsla::after,
 [style*="avatars/73336881655316480"] ~ .comment .username-wrapper::after {
   content: "Ganondorf";
