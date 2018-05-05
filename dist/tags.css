@@ -281,12 +281,6 @@
   color: #000;
   content: "Draconic"; }
 
-[data-user-id="172218388880293888"] .username-MwOsla::after,
-[style*="avatars/172218388880293888"] ~ .comment .username-wrapper::after {
-  background: #7289da;
-  color: #fff;
-  content: "Developer"; }
-
 [data-user-id="172426681800196096"] .username-MwOsla::after,
 [style*="avatars/172426681800196096"] ~ .comment .username-wrapper::after {
   background: #8d2036;
