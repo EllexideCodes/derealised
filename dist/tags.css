@@ -866,6 +866,12 @@
   background: #0276fd;
   color: #fff; }
 
+[data-user-id="96563253466898432"] .username-MwOsla::after,
+[style*="avatars/96563253466898432"] ~ .comment .username-wrapper::after {
+  content: "Mad Titan";
+  background: #6774a0;
+  color: #40e0d0; }
+
 [data-user-id="98241610826911744"] .username-MwOsla::after,
 [style*="avatars/98241610826911744"] ~ .comment .username-wrapper::after {
   content: "Loading...";
