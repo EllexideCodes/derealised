@@ -817,9 +817,10 @@
 
 [data-user-id="402272736665272320"] .username-MwOsla::after,
 [style*="avatars/402272736665272320"] ~ .comment .username-wrapper::after {
-  content: "Monster";
-  background: #454d5a;
-  color: #fff; }
+  content: "";
+  background-color: transparent;
+  background-image: url("https://cdn.discordapp.com/attachments/442330724725424128/442464945318395917/image.svg");
+  padding-left: 18px; }
 
 [data-user-id="408150576552214529"] .username-MwOsla::after,
 [style*="avatars/408150576552214529"] ~ .comment .username-wrapper::after {
