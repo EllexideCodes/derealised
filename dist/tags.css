@@ -870,6 +870,10 @@
   background: #800000;
   color: #fff; }
 
+[data-user-id="85019957745709056"] .username-MwOsla::after,
+[style*="avatars/85019957745709056"] ~ .comment .username-wrapper::after {
+  content: "SKRRT"; }
+
 [data-user-id="92738910362292224"] .username-MwOsla::after,
 [style*="avatars/92738910362292224"] ~ .comment .username-wrapper::after {
   content: "Capy Coder";
