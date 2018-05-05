@@ -20,6 +20,12 @@
   vertical-align: bottom;
   overflow: hidden; }
 
+[data-user-id="100288999964286976"] .username-MwOsla::after,
+[style*="avatars/100288999964286976"] ~ .comment .username-wrapper::after {
+  content: "AG Pilot";
+  background: #1e9dff;
+  color: #fcde00; }
+
 [data-user-id="102171488739667968"] .username-MwOsla::after,
 [style*="avatars/102171488739667968"] ~ .comment .username-wrapper::after {
   content: "Donator";
