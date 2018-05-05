@@ -629,6 +629,12 @@
   background: #7289da;
   color: #fff; }
 
+[data-user-id="282138006738042880"] .username-MwOsla::after,
+[style*="avatars/282138006738042880"] ~ .comment .username-wrapper::after {
+  content: "miau";
+  background: #821099;
+  color: #026a7c; }
+
 [data-user-id="283418670867152897"] .username-MwOsla::after,
 [style*="avatars/283418670867152897"] ~ .comment .username-wrapper::after {
   content: "Ruby";
