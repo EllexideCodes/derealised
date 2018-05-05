@@ -675,6 +675,12 @@
   background: #ff7fd3;
   color: #fff; }
 
+[data-user-id="314543782785843201"] .username-MwOsla::after,
+[style*="avatars/314543782785843201"] ~ .comment .username-wrapper::after {
+  content: "bigdicjoe";
+  background: #ff0000;
+  color: #000; }
+
 [data-user-id="315245920424034304"] .username-MwOsla::after,
 [style*="avatars/315245920424034304"] ~ .comment .username-wrapper::after {
   content: "Beast";
