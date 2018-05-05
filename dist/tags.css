@@ -797,6 +797,11 @@
   background: #18b1c7;
   color: #000; }
 
+[data-user-id="73336881655316480"] .username-MwOsla::after,
+[style*="avatars/73336881655316480"] ~ .comment .username-wrapper::after {
+  content: "Ganondorf";
+  background: #007cb0; }
+
 [data-user-id="81031640578535424"] .username-MwOsla::after,
 [style*="avatars/81031640578535424"] ~ .comment .username-wrapper::after {
   content: "Donator";
