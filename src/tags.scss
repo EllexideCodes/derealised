@@ -164,10 +164,9 @@ $user_tags: (
 @each $userid, $content in $user_tags {
   // [data-author-id="#{$userid}"] .username-wrapper::after,
   [data-user-id="#{$userid}"] .username-MwOsla::after,
-  [style*="avatars/#{$userid}"] ~ .comment .username-wrapper::after,
-  {
-    background: map-get($content, "background");
-    color: map-get($content, "color");
-    content: map-get($content, "content");
+  [style*="avatars/#{$userid}"] ~ .comment .username-wrapper::after {
+    @each $property, $value in $content {
+      #{$property}: $value;
+    }
   }
 }
