@@ -56,10 +56,11 @@
 [data-user-id="107511169366888448"] .username-MwOsla::after,
 [style*="avatars/107511169366888448"] ~ .comment .username-wrapper::after {
   content: "His Code Works";
-  background: #000000;
-  color: #fff;
+  color: var(--mc, #fff);
   border: 2px solid #672382;
-  border-radius: 11px; }
+  border-radius: 11px;
+  animation: hue-rotate 1.5s linear infinite;
+  filter: hue-rotate(360deg) invert(1); }
 
 [data-user-id="107762184641089536"] .username-MwOsla::after,
 [style*="avatars/107762184641089536"] ~ .comment .username-wrapper::after {

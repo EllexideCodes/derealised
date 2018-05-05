@@ -5,7 +5,7 @@ $user_tags: (
   "104938361159987200": ( content: "God", background: #336699, color: #fff, ),
   "106093784151924736": ( content: "coder", background: #cb8afc, color: #fff, ),
   "107003083208278016": ( content: "Mr.Astute", background: #2d4bdd, color: #000, ),
-  "107511169366888448": ( content: "His Code Works", background: #000000, color: #fff, border: 2px solid #672382, border-radius: 11px, ),
+  "107511169366888448": ( content: "His Code Works", color: var(--mc, #fff), border: 2px solid #672382, border-radius: 11px, animation: hue-rotate 1.5s linear infinite, filter: hue-rotate(360deg) invert(1), ),
   "107762184641089536": ( content: "S U P R E M E", background: #d02120, color: #fff, ),
   "114847475864567817": ( content: "Hawkestra", background: #ff0077, color: #fff, ),
   "114975260436070408": ( content: "lewd catgirl", background: #ff66cc, color: #fff, ),
