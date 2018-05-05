@@ -701,12 +701,6 @@
   background: #00ff81;
   color: #000; }
 
-[data-user-id="433698341008965633"] .username-MwOsla::after,
-[style*="avatars/433698341008965633"] ~ .comment .username-wrapper::after {
-  content: "MemeGaming 😃";
-  background: #18b1c7;
-  color: #000; }
-
 [data-user-id="367250478519549962"] .username-MwOsla::after,
 [style*="avatars/367250478519549962"] ~ .comment .username-wrapper::after {
   content: "Rene's Husband";
@@ -795,6 +789,12 @@
 [style*="avatars/426283874168078339"] ~ .comment .username-wrapper::after {
   content: "YouTuber";
   background: #ff0000;
+  color: #000; }
+
+[data-user-id="433698341008965633"] .username-MwOsla::after,
+[style*="avatars/433698341008965633"] ~ .comment .username-wrapper::after {
+  content: "MemeGaming 😃";
+  background: #18b1c7;
   color: #000; }
 
 [data-user-id="81031640578535424"] .username-MwOsla::after,
