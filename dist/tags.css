@@ -529,6 +529,12 @@
   background: #f5a9e1;
   color: #fff; }
 
+[data-user-id="239488378943438850"] .username-MwOsla::after,
+[style*="avatars/239488378943438850"] ~ .comment .username-wrapper::after {
+  content: "WOMANIZER";
+  background: #000000;
+  color: #fff; }
+
 [data-user-id="241735290035634178"] .username-MwOsla::after,
 [style*="avatars/241735290035634178"] ~ .comment .username-wrapper::after {
   content: "NoLife";
