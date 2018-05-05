@@ -391,6 +391,12 @@
   background: #3e82e5;
   color: #fff; }
 
+[data-user-id="196501452104007680"] .username-MwOsla::after,
+[style*="avatars/196501452104007680"] ~ .comment .username-wrapper::after {
+  content: "Galaxy";
+  background-image: url("https://i.imgur.com/7caQVTp.gif");
+  color: #fff; }
+
 [data-user-id="197773757492887552"] .username-MwOsla::after,
 [style*="avatars/197773757492887552"] ~ .comment .username-wrapper::after {
   content: "Universal";
